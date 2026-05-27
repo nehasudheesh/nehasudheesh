@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**nehasudheesh/nehasudheesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+## About Me
+🎓 Computer Science with Artificial Intelligence Student  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+💻 Learning Python, SQL, Git, and Data Analytics  
+🚀 Building projects and improving problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+- Python
+- SQL
+- Git & GitHub
+- C Programming
+- Excel
+- And More....
+
+## Currently Learning
+- Data Structures & Algorithms (DSA)
+- Machine Learning
+- Data Analytics
+- DBMS
+- Operating Systems
+
+## Goals
+✨ Build AI/ML projects  
+✨ Strengthen problem-solving skills  
+✨ Contribute to open-source projects  
+✨ Become a better developer every day  
+
+## Connect With Me
+- GitHub: https://github.com/nehasudheesh
