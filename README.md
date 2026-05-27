@@ -18,10 +18,8 @@
 
 ## Currently Learning
 - Data Structures & Algorithms (DSA)
-- Machine Learning
 - Data Analytics
 - DBMS
-- Operating Systems
 
 ## Goals
 ✨ Build AI/ML projects  
